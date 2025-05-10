@@ -108,4 +108,6 @@ cse.google.com
 manifest.googlevideo.com
 raw.githubusercontent.com
 redirector.googlevideo.com
+firebaseremoteconfig.googleapis.com
+
 
