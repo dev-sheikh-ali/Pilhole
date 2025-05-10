@@ -108,3 +108,8 @@ maps.gstatic.com
 gmail.com
 mail.google.com
 smtp.google.com
+s3.amazonaws.com
+s3.eu-central-1.amazonaws.com
+s3.us-east-1.amazonaws.com
+cdnjs.cloudflare.com
+ajax.cloudflare.com
