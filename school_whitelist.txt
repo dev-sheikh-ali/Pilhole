@@ -96,3 +96,16 @@ jstor.org
 scratch.mit.edu
 replit.com
 githubusercontent.com
+googleapis.com
+googleusercontent.com
+clients1.google.com
+clients2.google.com
+clients3.google.com
+clients4.google.com
+clients5.google.com
+clients6.google.com
+cse.google.com
+manifest.googlevideo.com
+raw.githubusercontent.com
+redirector.googlevideo.com
+
